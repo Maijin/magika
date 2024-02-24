@@ -64,7 +64,7 @@
 | 60 | ods | OpenDocument Spreadsheet |
 | 61 | odt | OpenDocument Text |
 | 62 | ogg | Ogg data |
-| 63 | outlook | MS Outlook Message |
+| 63 | outlook/msg | MS Outlook Message |
 | 64 | pcap | pcap capture file |
 | 65 | pdf | PDF document |
 | 66 | pebin | PE executable |
